@@ -1,5 +1,5 @@
 """
-Módulo feito por Luiz em 20/06
+Módulo feito por Luiz Eduardo Bravin em 20/06
 Objetivo: gerenciar os demais módulos
 
 RODE ESSE MÓDULO PARA INICIAR A RASPAGEM

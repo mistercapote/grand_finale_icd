@@ -1,5 +1,5 @@
 """
-Módulo feito por Ximena em 22/06
+Módulo feito por Ximena Breatriz Gomez Flores em 22/06
 Objetivo: solicitar ao ChatGPT que gere mais dados para serem trabalhados
 """
 

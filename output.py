@@ -1,5 +1,5 @@
 """
-Módulo feito por Luiz em 22/06
+Módulo feito por Luiz Eduardo Bravin em 22/06
 Objetivo: gerenciar o arquivo CSV, saída do programa
 """
 

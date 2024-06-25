@@ -1,11 +1,11 @@
 """
-Módulo feito por Ximena em 22/06
+Módulo feito por Ximena Breatriz Gomez Flores em 22/06
 Objetivo: limpar os dados minerados do site
 """
 
 
 def cleanText(texto):
-    #Função que corrige textos minarados
+    #Função que corrige textos da barra lateral
     ano = ""
     paginas = "" 
     editora = ""
@@ -41,6 +41,7 @@ def cleanInt(n):
 
 
 def cleanAvaliacao(data, texto):
+  #Função quer corrige o texto da avaliação
   ss=""
   ind=0
   for i in range(len(texto)):

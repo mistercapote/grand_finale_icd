@@ -1,5 +1,5 @@
 """
-Módulo feito em conjunto por Luiz e Ximena em 20/06
+Módulo feito em conjunto por Luiz Eduardo Bravin e Ximena Breatriz Gomez Flores em 20/06
 Objetivo: minerar dados do site escolhido
 """
 
