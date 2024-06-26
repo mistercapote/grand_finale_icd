@@ -6,7 +6,8 @@ Objetivo: gerenciar o arquivo CSV, saída do programa
 import pandas as pd
 import os
 
-PATH = 'god_pinho_final.csv'
+PATH = 'dados_livros.csv'
+
 def create():
     #Criação do arquivo CSV, caso ainda não criado
     if not os.path.exists(PATH):

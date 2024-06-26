@@ -6,7 +6,7 @@ Nosso grupo fez uma análise do site Skoob, um site de avaliações de livros.
 
 Sobre cada peça no arquivo Excel:
 
-DadosdoLivros: contém tabela provinda do CSV gerado pelo código
+DadosdoLivros: contém tabela provinda do CSV gerado pelo código.
 
 Unitário: essa peça traz como objetivo mostrar cada livro e suas respectivas informações, tais como: nome, autor, ano de publicação, número de páginas, editora, gênero do livro, ID do livro, avaliação geral, resenha do livro e consideração final. Sendo o gênero, a resenha e análise final geradas pela API da OpenAI.
 
@@ -19,6 +19,7 @@ Recomendamos fortemente que sejam selecionados um ou mais gêneros para a análi
 Grupo: Davi de França Vasconcelos Nunes, Elisa de Oliveira Soares, Gabrielly Esteves Pinheiro Chácara, Luiz Eduardo Bravin e Ximena Breatriz Gomez Flores
 
 Código - Luiz Eduardo Bravin e Ximena Breatriz Gomez Flores
+
 Excel - Davi de França Vasconcelos Nunes, Elisa de Oliveira Soares, Gabrielly Esteves Pinheiro Chácara
 
 Readme by Elisa de Oliveira Soares
