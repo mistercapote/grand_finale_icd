@@ -13,7 +13,6 @@ import mine
 CHAVE = input("Insira chave da OpenAI: ")
 
 def main():
-    print("deu certo")
     #Criar arquivo CSV com PANDAS, verificar existencia com OS:
     output.create()
 

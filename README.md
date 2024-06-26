@@ -3,6 +3,8 @@ Esse repositório contém o trabalho final de Introdução à Ciências de Dados
 
 Nosso grupo fez uma análise do site Skoob, um site de avaliações de livros.
 (https://www.skoob.com.br)
+- Para rodar o código execute o arquivo main.py
+- Para ter acesso as peças de avaliação, abra o arquivo A2_TrabalhoICD.xlsx no Excel
 
 Sobre cada peça no arquivo Excel:
 
