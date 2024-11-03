@@ -1,4 +1,4 @@
-# gran_finale_icd
+# Raspagem e análise de dados dos livros no Skoob
 Esse repositório contém o trabalho final de Introdução à Ciências de Dados
 
 Nosso grupo fez uma análise do site Skoob, um site de avaliações de livros.
